@@ -1,5 +1,5 @@
 
-import MediaCard from '@/app/components/card/card'
+import MediaCard from '@/components/card/card'
 import { Grid } from '@mui/material'
 import React from 'react'
 
