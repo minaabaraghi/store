@@ -8,3 +8,16 @@
   height: 85vh;
   position: relative;
 }
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  /*Insert your tablet CSS in here!*/
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  /*Insert your mobile CSS in here!*/
+}
