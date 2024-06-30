@@ -1,0 +1,29 @@
+{
+    "short_name": "فروشگاه ثمین",
+    "orientation": "landscape",
+    "name": "فروشگاه ثمین",
+    "icons": [
+      {
+        "src": "/images/maskable1.png",
+        "sizes":"192x192 128x128 96x96 72x72 48x48",
+        "type":"image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "/images/maskable1.png",
+        "type": "image/png",
+        "sizes": " 512x512 192x192"
+      }
+    ],
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
