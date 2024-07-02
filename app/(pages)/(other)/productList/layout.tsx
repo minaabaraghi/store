@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     
      <>
-     <b>mina</b>{children}
+   {children}
      </>
    
   );
